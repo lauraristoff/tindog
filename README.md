@@ -1,2 +1,2 @@
 # tindog
-A Mock Tinder website for dogs
+A mock Tinder website for dogs
